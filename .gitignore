@@ -1,0 +1,23 @@
+# Office temp / lock files
+~$*
+*.tmp
+*.bak
+
+# SSMS / Visual Studio
+*.suo
+*.user
+.vs/
+
+# Power BI local cache
+*.pbix.bak
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local secrets or connection files (never commit)
+.env
+*.env
+*.udl
+*connection*.txt
