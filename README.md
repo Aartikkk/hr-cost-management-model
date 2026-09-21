@@ -1,8 +1,8 @@
 # HRD Cost Intelligence: SQL + Power Platform + AI Agent
 
-An AI-enabled cost management system for an HR department. It replaces manual, spreadsheet-based budget consolidation with a SQL Server database, an automated Excel intake pipeline, a Power BI dashboard, and a conversational agent ("Ara") that can answer budget questions, log changes safely, and forecast future years.
+An AI-enabled cost management system for the HR Department at Aramco Americas. It replaces manual, spreadsheet-based budget consolidation with a SQL Server database, an automated Excel intake pipeline, a Power BI dashboard, and a conversational agent ("Ara") that can answer budget questions, log changes safely, and forecast future years.
 
-Built by team **Hire Standard** for the Aramco Americas **NextGen Capstone Initiative** (Summer 2026). The team received the **Leadership in Action Award**.
+Built by team **Hire Standard** for the Aramco Americas **NextGen Capstone Initiative** (Summer 2026). 
 
 > All data in this repository is synthetic dummy data created for the capstone. No real employee, financial, or company data is included.
 
